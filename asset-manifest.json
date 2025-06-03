@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/pemwebprojectuas-baru/static/css/main.d42aaca0.css",
+    "main.js": "/pemwebprojectuas-baru/static/js/main.aa8dc1c2.js",
+    "static/media/bgpasir.jpg": "/pemwebprojectuas-baru/static/media/bgpasir.9af1e4278f10f8ed181d.jpg",
+    "static/media/bgcttmbk.png": "/pemwebprojectuas-baru/static/media/bgcttmbk.264834b726175628111a.png",
+    "static/media/bg1.png": "/pemwebprojectuas-baru/static/media/bg1.ea260533fbd271f1b0b3.png",
+    "static/media/bgpltr.jpg": "/pemwebprojectuas-baru/static/media/bgpltr.03f0eacccd63cf690eed.jpg",
+    "static/media/bgbatubata.jpg": "/pemwebprojectuas-baru/static/media/bgbatubata.cb7bc5d2825f8b374127.jpg",
+    "static/media/bgonlen2.jpg": "/pemwebprojectuas-baru/static/media/bgonlen2.8552d1b191b20df92179.jpg",
+    "static/media/bgwlpnl.jpg": "/pemwebprojectuas-baru/static/media/bgwlpnl.338673bd3bf2ae096e8d.jpg",
+    "static/media/bgpvc.jpg": "/pemwebprojectuas-baru/static/media/bgpvc.cac571aead27b5d79f25.jpg",
+    "static/media/bgsmn.webp": "/pemwebprojectuas-baru/static/media/bgsmn.f9110fbea484f0833af9.webp",
+    "static/media/bgonlen3.jpg": "/pemwebprojectuas-baru/static/media/bgonlen3.5c2b2c3a6d299e518c03.jpg",
+    "static/media/lzd.webp": "/pemwebprojectuas-baru/static/media/lzd.8c2dabab67a2761e9ed1.webp",
+    "static/media/bg2.png": "/pemwebprojectuas-baru/static/media/bg2.aade453b595561a70ac6.png",
+    "static/media/bgonlen.jpg": "/pemwebprojectuas-baru/static/media/bgonlen.93b5ad4968cfb4ec5716.jpg",
+    "static/media/bgobg.jpg": "/pemwebprojectuas-baru/static/media/bgobg.e1ff7c2dc797733875ea.jpg",
+    "static/media/bggrgj.jpg": "/pemwebprojectuas-baru/static/media/bggrgj.9e99cea841990b844730.jpg",
+    "static/media/tkpd.webp": "/pemwebprojectuas-baru/static/media/tkpd.a40f73cf9ea920bec6ba.webp",
+    "static/media/shp.webp": "/pemwebprojectuas-baru/static/media/shp.83e2a3492344e69b0535.webp",
+    "static/media/bgctky.jpg": "/pemwebprojectuas-baru/static/media/bgctky.e79981f276b173c80b31.jpg",
+    "static/media/logo.jpg": "/pemwebprojectuas-baru/static/media/logo.6e2824992389fa5abbdd.jpg",
+    "static/media/tiktokshop.png": "/pemwebprojectuas-baru/static/media/tiktokshop.e45d6a372ded7502d384.png",
+    "index.html": "/pemwebprojectuas-baru/index.html",
+    "main.d42aaca0.css.map": "/pemwebprojectuas-baru/static/css/main.d42aaca0.css.map",
+    "main.aa8dc1c2.js.map": "/pemwebprojectuas-baru/static/js/main.aa8dc1c2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d42aaca0.css",
+    "static/js/main.aa8dc1c2.js"
+  ]
+}
